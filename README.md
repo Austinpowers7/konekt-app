@@ -1,2 +1,2 @@
-# WhatsAppUI_AstP
- Whats App UI with React Native
+# Konekt-app
+ Social Media App UI with React Native
